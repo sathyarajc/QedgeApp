@@ -3,14 +3,14 @@
 	<groupId>com.Qedge</groupId>
 	<artifactId>QedgeApp</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>QedgeApp Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<scm>
 		<connection>scm:git:git@github.com:sathyarajc/QedgeApp.git</connection>
 		<url>scm:git:git@github.com:sathyarajc/QedgeApp.git</url>
 		<developerConnection>scm:git:git@github.com:sathyarajc/QedgeApp.git</developerConnection>
-		<tag>QedgeApp-0.0.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<distributionManagement>
 		<!-- Publish the versioned releases here -->

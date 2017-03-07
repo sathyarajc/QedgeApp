@@ -1,17 +1,16 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.Qedge</groupId>
 	<artifactId>QedgeApp</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>QedgeApp Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<scm>
 		<connection>scm:git:git@github.com:sathyarajc/QedgeApp.git</connection>
 		<url>scm:git:git@github.com:sathyarajc/QedgeApp.git</url>
 		<developerConnection>scm:git:git@github.com:sathyarajc/QedgeApp.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>QedgeApp-0.0.1</tag>
 	</scm>
 	<distributionManagement>
 		<!-- Publish the versioned releases here -->

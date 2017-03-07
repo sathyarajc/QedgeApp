@@ -29,7 +29,7 @@
 	</distributionManagement>
 
 	<!-- Download artifacts from this repo -->
-	<repositories>
+	<!-- <repositories>
 		<repository>
 			<id>codezarvis</id>
 			<name>codezarvis-nexus</name>
@@ -42,7 +42,7 @@
 				<enabled>true</enabled>
 			</snapshots>
 		</repository>
-	</repositories>
+	</repositories> -->
 	<build>
 		<pluginManagement>
 			<plugins>

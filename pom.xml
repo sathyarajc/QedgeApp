@@ -29,11 +29,11 @@
 	</distributionManagement>
 
 	<!-- Download artifacts from this repo -->
-	<!-- <repositories>
+	<repositories>
 		<repository>
 			<id>codezarvis</id>
 			<name>codezarvis-nexus</name>
-			<url>http://localhost:8080/nexus/content/groups/public</url>
+			<url>http://localhost:8081/nexus/content/groups/public</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>
@@ -42,9 +42,8 @@
 				<enabled>true</enabled>
 			</snapshots>
 		</repository>
-	</repositories> -->
+	</repositories>
 	<build>
-		<pluginManagement>
 			<plugins>
 				<plugin>
 					<artifactId>maven-release-plugin</artifactId>
@@ -62,6 +61,5 @@
 					</executions>
 				</plugin>
 			</plugins>
-		</pluginManagement>
 	</build>
 </project>
